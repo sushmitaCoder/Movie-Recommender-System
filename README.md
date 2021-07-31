@@ -14,3 +14,17 @@ Jupyter notebook
 - In this example, we will use Item-based Collaborative Filter
 
 ## Dataset MovieLens: https://grouplens.org/datasets/movielens/100k/
+
+### Datasets
+- Movie_Id_Titles
+- My_Ratings.csv (I made a dataset with two random movies and given personal ratings)
+- u.data
+
+### Model
+- movie-recomendation-system-Sushmita Paul.ipynb
+
+### Requirements
+- requiremnts.txt
+
+To run this notebook, you need to install the required packages.
+
