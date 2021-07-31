@@ -17,7 +17,7 @@ Jupyter notebook
 
 ### Datasets
 - Movie_Id_Titles
-- My_Ratings.csv (I made a dataset with two random movies and given personal ratings)
+- My_Ratings.csv (I made a dataset with two random movies and gave personal ratings)
 - u.data
 
 ### Model
